@@ -1,6 +1,6 @@
 const checkBoxList = document.querySelectorAll('.custom-checkbox')
 const inputFields = document.querySelectorAll('.goal-input')
-const errorLabel = document.querySelector('input-label')
+const errorLabel = document.querySelector('.error-label')
 const progressBar = document.querySelector('.progress-bar')
 const progressValue = document.querySelector('.progress-value')
 const progressLabel = document.querySelector('.progress-label')

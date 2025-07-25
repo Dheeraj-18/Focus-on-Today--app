@@ -2,7 +2,7 @@
 
 **Focus on Today** is a simple and clean daily goal-tracking web app built using HTML, CSS, and JavaScript.
 
-🔗 **Live Demo:** [https://foucs-app.netlify.app/](https://foucs-app.netlify.app/)
+🔗 **Live Demo:** [https://foucs-app.netlify.app/](https://focus-now-app.netlify.app/)
 
 ---
 
